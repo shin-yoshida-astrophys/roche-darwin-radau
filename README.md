@@ -19,6 +19,7 @@ In our normalization, the rotational frequencies are computed by the approximati
 Roche approximation:
   
     $\omega_R = \sqrt{2f_{\rm obl}/(1-f_{\rm obl})}$.
+    
 
 Darwin-Radau apprpoximation:
 
