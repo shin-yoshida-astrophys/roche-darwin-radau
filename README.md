@@ -3,7 +3,7 @@ Assessing Roche &amp; Darwin-Radau formulae of rotating stars
 
 data for Yoshida,S., Res. Notes AAS, 6, 27 (2022)
 
-paraN1.0.d: N=1 polytrope
+paraN10.d: N=1 polytrope, paraN15.d: N=1.5, paraN30.d: N=3.0
 
  1st col. oblateness $f_{\rm obl}$;
  2nd col. rotational frequency $\omega$;
