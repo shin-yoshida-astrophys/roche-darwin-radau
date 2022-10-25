@@ -1,7 +1,7 @@
 # roche-darwin-radau
 Assessing Roche &amp; Darwin-Radau formulae of rotating stars
 
-data for Yoshida,S., Res. Notes AAS, 6, 27 (2022)
+data for *Yoshida,S., Res. Notes AAS, 6, 27 (2022)*
 
 paraN10.d: N=1 polytrope; paraN15.d: N=1.5; paraN30.d: N=3.0
 
