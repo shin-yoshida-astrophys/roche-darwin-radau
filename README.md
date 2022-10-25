@@ -13,7 +13,7 @@ Note:
   - $f_{\rm obl} = R_p/R_e$, where $R_p$ and $R_e$ are the polar and the equatorial radius.
   - $M$ is normalized by $R_e^3\rho_c$ where $\rho_c$ is the central mass density.
   - $\omega$ is normalized by $\sqrt{4\pi G\rho_c}$.
-  - $I_{zz}$ is normalized by $MR_2^2$.
+  - $I_{zz}$ is normalized by $MR_e^2$.
 
 In our normalization, the rotational frequencies are computed by the approximations as follows.
 
