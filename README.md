@@ -4,9 +4,10 @@ Assessing Roche &amp; Darwin-Radau formulae of rotating stars
 data for Yoshida,S., Res. Notes AAS, 6, 27 (2022)
 
 paraN1.0.d: N=1 polytrope
- 1st col. oblateness $f_{\rm obl}$
- 2nd col. rotational frequency $\omega$
- 3rd col. mass $M$
+
+ 1st col. oblateness $f_{\rm obl}$;
+ 2nd col. rotational frequency $\omega$;
+ 3rd col. mass $M$;
  4th col. moment of inertia w.r.t the rotational axis $I_{zz}$
  
 Note: 
