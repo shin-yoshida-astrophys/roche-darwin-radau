@@ -17,11 +17,9 @@ Note:
 In our normalization, the rotational frequencies are computed by the approximations as follows.
 
 Roche approximation:
-  $$
-    \omega_R = \sqrt{2f_{\rm obl}/(1-f_{\rm obl})}.
-  $$
+  
+    $\omega_R = \sqrt{2f_{\rm obl}/(1-f_{\rm obl})}$.
+
 Darwin-Radau apprpoximation:
-  $$
-    \omega_{DR} = \sqrt{f_{\rm obl}\left(116 - 300C + 225C**2\right)/40},
-  $$
+  $\omega_{DR} = \sqrt{f_{\rm obl}\left(116 - 300C + 225C**2\right)/40}$,
   where $C=I_{zz}/M$.
